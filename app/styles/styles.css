@@ -22348,7 +22348,7 @@ Interactive Layer
   width: 240px;
   position: relative;
 }
-/* line 7, ../styles-dev/main/components/_loader.scss */
+/* line 6, ../styles-dev/main/components/_loader.scss */
 .wrapper .triangle {
   width: 0;
   height: 0;
@@ -22356,31 +22356,31 @@ Interactive Layer
   position: absolute;
   animation: rotate 0.7s infinite 1s;
 }
-/* line 15, ../styles-dev/main/components/_loader.scss */
+/* line 13, ../styles-dev/main/components/_loader.scss */
 .wrapper .bottom {
   border-width: 0 100px 100px 100px;
-  border-color: transparent transparent #1fb050 transparent;
+  border-color: transparent transparent #35b729 transparent;
   bottom: 10px;
   left: calc(50% - 100px);
 }
-/* line 22, ../styles-dev/main/components/_loader.scss */
+/* line 19, ../styles-dev/main/components/_loader.scss */
 .wrapper .top {
   border-width: 100px 100px 0 100px;
-  border-color: #b4d575 transparent transparent transparent;
+  border-color: #ffbc49 transparent transparent transparent;
   top: 10px;
   left: calc(50% - 100px);
 }
-/* line 29, ../styles-dev/main/components/_loader.scss */
+/* line 25, ../styles-dev/main/components/_loader.scss */
 .wrapper .left {
   border-width: 100px 0 100px 100px;
-  border-color: transparent transparent transparent #1074b9;
+  border-color: transparent transparent transparent #5270ff;
   top: calc(50% - 100px);
   left: 10px;
 }
-/* line 36, ../styles-dev/main/components/_loader.scss */
+/* line 31, ../styles-dev/main/components/_loader.scss */
 .wrapper .right {
   border-width: 100px 100px 100px 0;
-  border-color: transparent #1daeec transparent transparent;
+  border-color: transparent #5270ff transparent transparent;
   top: calc(50% - 100px);
   right: 10px;
 }

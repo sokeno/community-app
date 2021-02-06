@@ -1,5 +1,5 @@
 <!-- we can include some common header page stuff in here, i.e. menus, nav tabs etc. -->
-<img src="image/logo.jpg" alt="mifosX"/>
+<img src="image/logo.jpg" alt="mifosX" />
 <div>
     <div class="menu-links">
         <nav>
@@ -11,8 +11,7 @@
         </nav>
     </div>
     <div class="menu-user" data-ng-hide="currentSession.user == null">
-        <div>{{'label.heading.user' | translate}}: <strong>{{currentSession.user.name}}</strong> <a
-                data-ng-click="logout()">({{'label.anchor.logout' | translate}})</a></div>
+        <div>{{'label.heading.user' | translate}}: <strong>{{currentSession.user.name}}</strong> <a data-ng-click="logout()">({{'label.anchor.logout' | translate}})</a></div>
     </div>
 </div>
 <hr/>
