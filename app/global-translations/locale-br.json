@@ -2,9 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Fohanno",
-			"Y-M D",
 			"Fulup",
-			"Gwenn-Ael"
+			"Gwenn-Ael",
+			"Y-M D"
 		]
 	},
 	"label.heading.totalshares": "Hollad an oberoù",
@@ -1460,6 +1460,5 @@
 	"reportsall": "Danevelloù",
 	"endDate": "Deiziad echuiñ",
 	"startDate": "Deiziad kregiñ",
-	"label.input.selected": "Diuzet",
-	"------------------": "------------"
+	"label.input.selected": "Diuzet"
 }

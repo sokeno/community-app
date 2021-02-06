@@ -1,19 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
+			"Annalisarobertson92",
 			"Arief",
 			"Asiansaga",
 			"Gombang",
-			"Maria",
-			"Marwan Mohamad",
-			"WongKentir",
-			"Kenrick95",
-			"Annalisarobertson92",
-			"Rachmat.Wahidi",
-			"Rachmat04",
 			"Iburhan",
 			"Jaydiah",
-			"Randy.halim"
+			"Kenrick95",
+			"Maria",
+			"Marwan Mohamad",
+			"Rachmat.Wahidi",
+			"Rachmat04",
+			"Randy.halim",
+			"WongKentir"
 		]
 	},
 	"label.heading.totalshares": "Total Saham",
@@ -3322,7 +3322,6 @@
 	"label.input.teller.cashiertxn.txnNote": "nota/komen",
 	"label.button.addpaymentdetail": "Tunjukkan rincian pembayaran",
 	"label.anchor.individualcollectionsheet": "Lembar Tagihan Individu",
-	"------------------": "------------",
 	"office_access_to_loan_products": "Kantor --> Produk Pinjaman/Pembiayaan",
 	"office_access_to_savings_products": "Kantor--> produk tabungan",
 	"office_access_to_fees/charges": "Kantor --> Biaya/Fee",
